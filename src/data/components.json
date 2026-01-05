@@ -1,0 +1,44 @@
+[
+  {
+    "id": "counter",
+    "name": "Counter",
+    "category": "Data Display",
+    "description": "Simple increment / decrement counter with min/max.",
+    "demoType": "CounterDemo"
+  },
+  {
+    "id": "simple-form",
+    "name": "Simple Form",
+    "category": "Forms",
+    "description": "Form with required name and email validation.",
+    "demoType": "SimpleFormDemo"
+  },
+  {
+    "id": "toggle",
+    "name": "Toggle",
+    "category": "Buttons",
+    "description": "A simple on/off toggle component demonstrating conditional rendering.",
+    "demoType": "ToggleDemo"
+  },
+  {
+    "id": "expandable-card",
+    "name": "Card (Expandable)",
+    "category": "Cards",
+    "description": "Card with expandable content and conditional rendering.",
+    "demoType": "CardDemo"
+  },
+  {
+    "id": "todo",
+    "name": "Todo List",
+    "category": "Data Display",
+    "description": "Add/remove items; demonstrates list rendering & lifting state.",
+    "demoType": "TodoListDemo"
+  },
+  {
+    "id": "color-picker",
+    "name": "Color Picker",
+    "category": "Forms",
+    "description": "Pick a color to change the app theme color (lifted state).",
+    "demoType": "ColorPickerDemo"
+  }
+]
